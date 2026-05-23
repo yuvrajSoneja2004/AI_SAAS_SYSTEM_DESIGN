@@ -3,6 +3,7 @@
 > Every component in this system exists for a reason. This document explains the *why* behind each decision — the tradeoffs, the failure modes we designed around, and the reasoning that shaped the architecture.
 
 ---
+*System Designed By Yuvraj Soneja on Production which is live with 1000s of users.*
 ![TechClarity Production Architecture](./system_design.png)
 ## The Core Philosophy
 
