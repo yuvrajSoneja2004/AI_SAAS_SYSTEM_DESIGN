@@ -4,6 +4,7 @@
 
 ---
 *System Designed By Yuvraj Soneja on Production which is live with 1000s of users.*
+---
 ![TechClarity Production Architecture](./system_design.png)
 ## The Core Philosophy
 
