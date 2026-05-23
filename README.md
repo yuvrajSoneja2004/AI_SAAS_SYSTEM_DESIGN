@@ -1,4 +1,4 @@
-# TechClarity — Architecture Decision Record
+# AI SaaS — Architecture Decision Record
 
 > Every component in this system exists for a reason. This document explains the *why* behind each decision — the tradeoffs, the failure modes we designed around, and the reasoning that shaped the architecture.
 
